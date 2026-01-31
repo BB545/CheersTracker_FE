@@ -1,4 +1,4 @@
-<img width="150" src="">
+<img width="150" src="cheerstracker/src/assets/images/Logo/CheersTracker_logo.png">
 
 
 # CheersTracker
